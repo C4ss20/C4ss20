@@ -21,15 +21,17 @@ I'm a cybersecurity engineer with a pentesting background. For 1.5 years I asses
 
 ## Featured projects
 
-> Each repo follows the same structure: **problem → approach → results → lessons learned.**
+> Technical work is documented as **problem → methodology → validation → results → lessons learned**. In-progress projects are labeled clearly.
 
-| Project | What it shows | Status |
+| Project | What it demonstrates | Status |
 |---|---|---|
-| `vuln-prioritization-pipeline` | Scan results enriched with CVSS, EPSS and CISA KEV into a ranked remediation report with SLAs | 🚧 In progress |
-| `aws-misconfig-lab` | Vulnerable AWS lab, Prowler findings, fixes and an IAM checker script | 🚧 In progress |
-| `secure-cicd-pipeline` | GitHub Actions with SAST, secret and dependency scanning on a vulnerable app | 🚧 In progress |
-| `sample-pentest-report` | Consultant-style report on a public lab target: executive summary, CVSS, reproduction, remediation | 🚧 In progress |
-| `ctf-writeups` | Challenge write-ups (bilingual ES/EN) | 🚧 In progress |
+| 🏁 [**TheM4rv3ls CTF — 7 write-ups**](https://github.com/C4ss20/CTF) | OSINT, web security, network analysis, .NET reversing, and Windows/Linux forensics; reproducible Python verification scripts | ✅ **Published** |
+| **Vulnerability prioritization pipeline** | Asset-level CVSS + EPSS + CISA KEV context, transparent remediation ranking and SLA recommendations | 🛠️ Building — repository coming soon |
+| **AWS security & misconfiguration lab** | IAM policy checks, configuration review, documented fixes, and eventually sandbox Prowler scans | 🛠️ Building — repository coming soon |
+| **Secure CI/CD pipeline** | SAST, dependency and secret scanning with GitHub Actions on a purpose-built demo application | 📋 Planned |
+| **Sample penetration testing report** | An anonymized / deliberately vulnerable lab assessment with evidence, impact, CVSS, and remediation | 📋 Planned |
+
+**Explore now:** [TheM4rv3ls CTF collection](https://github.com/C4ss20/CTF) · **7 challenges · 810 challenge points** (sum of challenge values; not a scoreboard claim).
 
 
 ## Certifications & education
