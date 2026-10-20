@@ -26,8 +26,8 @@ I'm a cybersecurity engineer with a pentesting background. For 1.5 years I asses
 | Project | What it demonstrates | Status |
 |---|---|---|
 | 🏁 [**TheM4rv3ls CTF — 7 write-ups**](https://github.com/C4ss20/CTF) | OSINT, web security, network analysis, .NET reversing, and Windows/Linux forensics; reproducible Python verification scripts | ✅ **Published** |
-| **Vulnerability prioritization pipeline** | Asset-level CVSS + EPSS + CISA KEV context, transparent remediation ranking and SLA recommendations | 🛠️ Building — repository coming soon |
-| **AWS security & misconfiguration lab** | IAM policy checks, configuration review, documented fixes, and eventually sandbox Prowler scans | 🛠️ Building — repository coming soon |
+| 🔎 [**Vulnerability Prioritization Pipeline**](https://github.com/C4ss20/vuln-prioritization-pipeline) | Working offline Python MVP: synthetic CVSS/EPSS/KEV inputs, transparent priority rules, remediation SLAs, sample reports, and unit tests | ✅ **Published — MVP** |
+| ☁️ [**AWS Misconfiguration Lab**](https://github.com/C4ss20/aws-misconfig-lab) | Offline IAM JSON policy checker with sample findings and unit tests; AWS deployment and Prowler scans are still planned | ✅ **Published — Phase 1** |
 | **Secure CI/CD pipeline** | SAST, dependency and secret scanning with GitHub Actions on a purpose-built demo application | 📋 Planned |
 | **Sample penetration testing report** | An anonymized / deliberately vulnerable lab assessment with evidence, impact, CVSS, and remediation | 📋 Planned |
 
